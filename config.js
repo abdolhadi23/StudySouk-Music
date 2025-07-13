@@ -1,7 +1,7 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTM4NjcyNzA1Njc0OTg4NzYyOQ.G8bYEn.kKELwSN3XgRoeV6JdF8b8BsHvMKLM6J4DYACgM",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
   mongodbUri : "mongodb+srv://abde2311:abde2311@discordbot.uaev1ro.mongodb.net/?retryWrites=true&w=majority",
